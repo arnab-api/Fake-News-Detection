@@ -1,0 +1,37 @@
+http://www.fakenewschallenge.org/
+
+------------------------- Tutorials --------------------------
+
+https://www.datacamp.com/community/tutorials/scikit-learn-fake-news
+
+
+-------------------------- dataset ---------------------------
+
+https://www.kaggle.com/mrisdal/fake-news
+https://github.com/GeorgeMcIntire/fake_real_news_dataset
+https://github.com/KaiDMML/FakeNewsNet
+
+
+------------------------ code/github -------------------------
+
+https://github.com/Cisco-Talos/fnc-1
+https://github.com/uclmr/fakenewschallenge
+https://github.com/hanselowski/athene_system
+https://github.com/genyunus/Detecting_Fake_News  (https://medium.com/@Genyunus/detecting-fake-news-with-nlp-c893ec31dee8)
+https://github.com/aldengolab/fake-news-detection
+https://github.com/MKLab-ITI/computational-verification
+
+
+----------------------- Paper/Articles -----------------------
+
+https://www.kdnuggets.com/2017/04/machine-learning-fake-news-accuracy.html
+http://www.fakenewschallenge.org/
+http://www.kdd.org/exploration_files/19-1-Article2.pdf
+
+
+------------------------- blog posts -------------------------
+
+https://blog.talosintelligence.com/2017/06/talos-fake-news-challenge.html
+https://medium.com/@andre134679/team-athene-on-the-fake-news-challenge-28a5cf5e017b
+https://github.com/uclmr/fakenewschallenge
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
